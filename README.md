@@ -13,34 +13,6 @@
  - powershell  
  - python
  - shell script
- 
->DevopsTool()
- - azure cli
- - vmware cli
- - aws cli
- - ansible
- - chef cookbook
- - jenkins
- - github
- - docker
- reference: https://github.com/mmik5
-
->SecurityTool()
- - w3af
- - sqlmap
- - burp
- - kaili linux
-
->TestingTool()
- {  
- 	"jmeter": "load test",
-    "soupUI": "API test",
-    "autoit": "windows installer",
-    "selenium": "html UI test",
-    "testrail": "test plan",
-    "Jira": "ticket system",
-	"slack": "oversea communication"
- }
 
 >TestingExperience()
  - agile testing
@@ -51,3 +23,32 @@
  - performance testing
  - load testing
  - security testing
+ 
+#DevopsTool()
+ - azure cli
+ - vmware cli
+ - aws cli
+ - ansible
+ - chef cookbook
+ - jenkins
+ - github
+ - docker
+ reference: https://github.com/mmik5
+
+#SecurityTool()
+ - w3af
+ - sqlmap
+ - burp
+ - kaili linux
+
+#TestingTool()
+ {  <br>
+ 	"jmeter": "load test",<br>
+    "soupUI": "API test",<br>
+    "autoit": "windows installer",<br>
+    "selenium": "html UI test",<br>
+    "testrail": "test plan",<br>
+    "Jira": "ticket system",<br>
+	"slack": "oversea communication"<br>
+ }	<br>
+
